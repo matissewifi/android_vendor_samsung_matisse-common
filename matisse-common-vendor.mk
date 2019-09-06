@@ -30,17 +30,17 @@ PRODUCT_COPY_FILES += \
 # Audio
 PRODUCT_COPY_FILES += \
     vendor/samsung/matisse-common/proprietary/lib/libacdbmapper.so:system/vendor/lib/libacdbmapper.so \
-	vendor/samsung/matisse-common/proprietary/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so \
-	vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/Bluetooth_cal.acdb:system/etc/Bluetooth_cal.acdb \
-	vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/General_cal.acdb:system/etc/General_cal.acdb \
-	vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/Global_cal.acdb:system/etc/Global_cal.acdb \
-	vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/Handset_cal.acdb:system/etc/Handset_cal.acdb \
-	vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/Hdmi_cal.acdb:system/etc/Hdmi_cal.acdb \
-	vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/Headset_cal.acdb:system/etc/Headset_cal.acdb \
-	vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
-	vendor/samsung/matisse-common/proprietary/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
-	vendor/samsung/matisse-common/proprietary/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
-	vendor/samsung/matisse-common/proprietary/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
+    vendor/samsung/matisse-common/proprietary/lib/libaudioalsa.so:system/vendor/lib/libaudioalsa.so \
+    vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/Bluetooth_cal.acdb:system/etc/Bluetooth_cal.acdb \
+    vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/General_cal.acdb:system/etc/General_cal.acdb \
+    vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/Global_cal.acdb:system/etc/Global_cal.acdb \
+    vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/Handset_cal.acdb:system/etc/Handset_cal.acdb \
+    vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/Hdmi_cal.acdb:system/etc/Hdmi_cal.acdb \
+    vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/Headset_cal.acdb:system/etc/Headset_cal.acdb \
+    vendor/samsung/matisse-common/proprietary/etc/acdbdata/STOCK/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
+    vendor/samsung/matisse-common/proprietary/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
+    vendor/samsung/matisse-common/proprietary/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
+    vendor/samsung/matisse-common/proprietary/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
