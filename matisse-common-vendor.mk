@@ -356,7 +356,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/samsung/matisse-common/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/samsung/matisse-common/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
-    vendor/samsung/matisse-common/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so
+    vendor/samsung/matisse-common/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
+    vendor/samsung/matisse-common/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so
 
 # Missing Lib by @matteo0026
 PRODUCT_COPY_FILES += \
